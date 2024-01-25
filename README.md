@@ -6,3 +6,5 @@ This project analyzes the historical time series of the Industrial Production In
 
 Data source:
 Board of Governors of the Federal Reserve System (US), Industrial Production: Durable Consumer Goods [IPB51100N], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/IPB51100N, December 2, 2023.
+
+The `source.ipynb` file contains the entire logic of analysis and forecasting. For better experience, I suggest you download the file and open it using your own IDE or see a rendered version of the file using nbviewer by clicking [here](https://nbviewer.org/github/jintaozhang112358/Production-Index-Forecast/blob/main/source.ipynb).
